@@ -27,7 +27,7 @@ class Student
   end
 
   def self.all
-    @@all << Scraper.new
+    @@all << 
   end
 end
 
